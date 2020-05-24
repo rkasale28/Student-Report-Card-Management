@@ -1,5 +1,5 @@
 # Student-Report-Card-Management-Project
-#### Designed and Developed a management software which will reduce the work of administrators to produce the report card. This software was implemented under the guidance of Vaibhav Chunekar Sir and Anagha Raich Madam. {.text-justify} 
+#### Designed and Developed a management software which will reduce the work of administrators to produce the report card. This software was implemented under the guidance of Vaibhav Chunekar Sir and Anagha Raich Madam.
 
 **Important Features:**
 * This software is efficient in storage and retrieval of student’s marks.
