@@ -1,4 +1,4 @@
-# Student-Report-Card-Management-Project
+# Student Report Card Management Project
 #### Designed and Developed a management software which will reduce the work of administrators to produce the report card. This software was implemented under the guidance of Vaibhav Chunekar Sir and Anagha Raich Madam.
 
 **Important Features:**
