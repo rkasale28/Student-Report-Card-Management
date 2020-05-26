@@ -1,4 +1,4 @@
-# Student Report Card Management Project
+# Student Report Card Management
 #### Designed and Developed a management software which will reduce the work of administrators to produce the report card.
 
 **Important Features:**
